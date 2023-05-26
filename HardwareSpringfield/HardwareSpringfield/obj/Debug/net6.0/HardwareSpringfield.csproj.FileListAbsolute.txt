@@ -1,0 +1,15 @@
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\bin\Debug\net6.0\HardwareSpringfield.exe
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\bin\Debug\net6.0\HardwareSpringfield.deps.json
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\bin\Debug\net6.0\HardwareSpringfield.runtimeconfig.json
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\bin\Debug\net6.0\HardwareSpringfield.dll
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\bin\Debug\net6.0\HardwareSpringfield.pdb
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\obj\Debug\net6.0\HardwareSpringfield.csproj.AssemblyReference.cache
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\obj\Debug\net6.0\HardwareSpringfield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\obj\Debug\net6.0\HardwareSpringfield.AssemblyInfoInputs.cache
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\obj\Debug\net6.0\HardwareSpringfield.AssemblyInfo.cs
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\obj\Debug\net6.0\HardwareSpringfield.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\obj\Debug\net6.0\HardwareSpringfield.dll
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\obj\Debug\net6.0\refint\HardwareSpringfield.dll
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\obj\Debug\net6.0\HardwareSpringfield.pdb
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\obj\Debug\net6.0\HardwareSpringfield.genruntimeconfig.cache
+C:\Users\Usuario\AppData\Local\GitHubDesktop\CAI_HardwareSpringfield\HardwareSpringfield\HardwareSpringfield\obj\Debug\net6.0\ref\HardwareSpringfield.dll
