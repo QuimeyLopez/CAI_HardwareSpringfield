@@ -1,0 +1,6 @@
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Entidades\bin\Debug\HardwareSpringfield.Entidades.dll
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Entidades\bin\Debug\HardwareSpringfield.Entidades.pdb
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Entidades\obj\Debug\HardwareSpringfield.Entidades.csproj.AssemblyReference.cache
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Entidades\obj\Debug\HardwareSpringfield.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Entidades\obj\Debug\HardwareSpringfield.Entidades.dll
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Entidades\obj\Debug\HardwareSpringfield.Entidades.pdb

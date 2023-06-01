@@ -1,0 +1,6 @@
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Negocio\bin\Debug\HardwareSpringfield.Negocio.dll
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Negocio\bin\Debug\HardwareSpringfield.Negocio.pdb
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Negocio\obj\Debug\HardwareSpringfield.Negocio.csproj.AssemblyReference.cache
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Negocio\obj\Debug\HardwareSpringfield.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Negocio\obj\Debug\HardwareSpringfield.Negocio.dll
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Negocio\obj\Debug\HardwareSpringfield.Negocio.pdb

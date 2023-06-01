@@ -1,0 +1,7 @@
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Consola\bin\Debug\HardwareSpringfield.Consola.exe.config
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Consola\bin\Debug\HardwareSpringfield.Consola.exe
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Consola\bin\Debug\HardwareSpringfield.Consola.pdb
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Consola\obj\Debug\HardwareSpringfield.Consola.csproj.AssemblyReference.cache
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Consola\obj\Debug\HardwareSpringfield.Consola.csproj.CoreCompileInputs.cache
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Consola\obj\Debug\HardwareSpringfield.Consola.exe
+C:\Users\aguma\source\repos\CAI_1C2023\HardwareSpringfield\HardwareSpringfield.Consola\obj\Debug\HardwareSpringfield.Consola.pdb
