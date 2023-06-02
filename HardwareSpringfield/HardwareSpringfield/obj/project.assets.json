@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
+    "C:\\Users\\aguma\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\AppData\\Local\\GitHubDesktop\\CAI_HardwareSpringfield\\HardwareSpringfield\\HardwareSpringfield\\HardwareSpringfield.csproj",
+      "projectUniqueName": "D:\\Documentos personales\\Facultad\\2023 1C\\CAI_HardwareSpringfield\\HardwareSpringfield\\HardwareSpringfield\\HardwareSpringfield.csproj",
       "projectName": "HardwareSpringfield",
-      "projectPath": "C:\\Users\\Usuario\\AppData\\Local\\GitHubDesktop\\CAI_HardwareSpringfield\\HardwareSpringfield\\HardwareSpringfield\\HardwareSpringfield.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\AppData\\Local\\GitHubDesktop\\CAI_HardwareSpringfield\\HardwareSpringfield\\HardwareSpringfield\\obj\\",
+      "projectPath": "D:\\Documentos personales\\Facultad\\2023 1C\\CAI_HardwareSpringfield\\HardwareSpringfield\\HardwareSpringfield\\HardwareSpringfield.csproj",
+      "packagesPath": "C:\\Users\\aguma\\.nuget\\packages\\",
+      "outputPath": "D:\\Documentos personales\\Facultad\\2023 1C\\CAI_HardwareSpringfield\\HardwareSpringfield\\HardwareSpringfield\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aguma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,17 +56,11 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

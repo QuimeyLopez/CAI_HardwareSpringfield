@@ -14,7 +14,7 @@ namespace HardwareSpringfield
         private string _nombre;
         private string _apellido;    
         private string _email;
-        private DateTime _fechaNacimiento;
+        private DateTime _fechaNacimient;
         
 
         // PROPIEDADES      
